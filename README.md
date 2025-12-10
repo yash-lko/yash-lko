@@ -36,8 +36,9 @@
 | Project | Tech | Live Demo | Repo |
 |--------|------|-----------|------|
 | **Ecommerce Darkstore** | React, Firebase, Tailwind | [Demo](#) | [Repo](https://github.com/yash-lko/darkstore) |
-| **Blog Website** | Next.js, Tailwind | [Demo](#) | [Repo](https://github.com/yash-lko/Next.js-Blog-App) |
+| **Blog Website** | Next.js, Typescript, Tailwind | [Demo](#) | [Repo](https://github.com/yash-lko/Next.js-Blog-App) |
 | **Youtube Clone** | React, Tailwind, React Router, Context API | [Demo](#) | [Repo](https://github.com/yash-lko/youtube_clone) |
+| **Weather App** | React, Typescript, Context API | [Demo](#) | [Repo](https://github.com/yash-lko/WeaterAppTypescript) |
 
 ---
 
