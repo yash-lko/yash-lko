@@ -37,7 +37,7 @@
 |--------|------|-----------|------|
 | **Instagram UI Clone** | React, Firebase, Tailwind | [Demo](#) | [Repo](#) |
 | **Blog Website** | Next.js, Tailwind | [Demo](#) | [Repo](https://github.com/yash-lko/Next.js-Blog-App) |
-| **Youtube Clone** | React, CSS | [Demo](#) | [Repo](https://github.com/yash-lko/youtube_clone) |
+| **Youtube Clone** | React, Tailwind | [Demo](#) | [Repo](https://github.com/yash-lko/youtube_clone) |
 
 ---
 
