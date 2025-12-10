@@ -29,7 +29,7 @@
 | Project | Tech | Live Demo | Repo |
 |--------|------|-----------|------|
 | **Instagram UI Clone** | React, Firebase, Tailwind | [Demo](#) | [Repo](#) |
-| **Portfolio Website** | Next.js, Framer Motion | [Demo](#) | [Repo](#) |
+| **Blog Website** | Next.js, Tailwind | [Demo](#) | [Repo](https://github.com/yash-lko/Next.js-Blog-App) |
 | **Admin Dashboard** | React, Chart.js | [Demo](#) | [Repo](#) |
 
 ---
@@ -46,8 +46,8 @@
 
 ### 📫 Contact Me
 
-- 📧 yashlakhwani9@icloud.com
-- 🔗 [LinkedIn](#)
+- 📧 yashwantbit@gmail.com
+- 🔗 [LinkedIn](www.linkedin.com/in/yashwant-kumar-nishad)
 - 🌐 [Portfolio](#)
 
 ---
