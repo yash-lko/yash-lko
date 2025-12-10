@@ -35,6 +35,7 @@
 
 | Project | Tech | Live Demo | Repo |
 |--------|------|-----------|------|
+| **Ecommerce Store** | React, Redux, Tailwind | [Demo](#) | [Repo](https://github.com/yash-lko/ecommerce-shopping)|
 | **Ecommerce Darkstore** | React, Firebase, Tailwind | [Demo](#) | [Repo](https://github.com/yash-lko/darkstore) |
 | **Blog Website** | Next.js, Typescript, Tailwind | [Demo](#) | [Repo](https://github.com/yash-lko/Next.js-Blog-App) |
 | **Youtube Clone** | React, Tailwind, React Router, Context API | [Demo](#) | [Repo](https://github.com/yash-lko/youtube_clone) |
