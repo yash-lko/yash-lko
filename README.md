@@ -2,10 +2,17 @@
 <h3 align="center">Frontend Developer | React & Next.js Enthusiast</h3>
 
 <p align="center">
-  💻 Building responsive interfaces with performance in mind<br />
-  🌱 Currently deepening skills in TypeScript & UI/UX<br />
-  🚀 Love working with modern tools like Next.js, Tailwind, and Framer Motion
+  Passionate about crafting clean, responsive, and user-focused web experiences.<br />
+  I work with modern frontend technologies and love turning ideas into elegant UI solutions.
 </p>
+
+<p align="center">
+  🔹 Strong in HTML, CSS, JavaScript & Responsive Design<br />
+  🔹 Experienced with React, Next.js & Tailwind CSS<br />
+  🔹 Comfortable with Git/GitHub & Agile Scrum workflows<br />
+  🔹 Always learning, improving & exploring better frontend practices
+</p>
+
 
 ---
 
