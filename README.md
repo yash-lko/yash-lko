@@ -39,7 +39,7 @@
 | **Blog Website** | Next.js, Typescript, Tailwind | [Demo](#) | [Repo](https://github.com/yash-lko/Next.js-Blog-App) |
 | **Youtube Clone** | React, Tailwind, React Router, Context API | [Demo](#) | [Repo](https://github.com/yash-lko/youtube_clone) |
 | **Weather App** | React, Typescript, Context API | [Demo](#) | [Repo](https://github.com/yash-lko/WeaterAppTypescript) |
-| **Cart System** | React, React Router Dom | [Demo](#) | [Repo]([https://github.com/yash-lko/WeaterAppTypescript](https://github.com/yash-lko/Cart_Ecommerce)) |
+| **Cart System** | React, React Router Dom | [Demo](#) | [Repo](https://github.com/yash-lko/Cart_Ecommerce)|
 
 ---
 
