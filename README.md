@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://i.pinimg.com/originals/22/05/17/220517e0fbde4785b14c8cc63afd2429.gif" width="100" height="100"/>, I'm Yashwant Nishad   </h1>
+<h1 align="center">Hi 👋, I'm Yashwant Nishad   </h1>
 <h3 align="center">Frontend Developer | React & Next.js Enthusiast</h3>
 <p align="center">
   Passionate about crafting clean, responsive, and user-focused web experiences.<br />
