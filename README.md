@@ -32,7 +32,7 @@
 
 ### 📌 Featured Projects
 
-| Project | Tech | Live Demo | Repo |
+| Project | Tech | Demo | Repo |
 |--------|------|-----------|------|
 | **Ecommerce Store** | React, Redux, Tailwind | [Demo](#) | [Repo](https://github.com/yash-lko/ecommerce-shopping)|
 | **Ecommerce Darkstore** | React, Firebase, Tailwind | [Demo](#) | [Repo](https://github.com/yash-lko/darkstore) |
