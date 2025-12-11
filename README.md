@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <img src="https://github.com/yash-lko/yash-lko/blob/main/text%20(1).gif" style="margin-top:'10px"/>  </h1>
+<h1 align="center">Hi 👋, I'm Yashwant Nishad  </h1>
 <h3 align="center">Frontend Developer | React & Next.js Enthusiast</h3>
 <p align="center">
   Passionate about crafting clean, responsive, and user-focused web experiences.<br />
