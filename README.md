@@ -40,7 +40,7 @@
 | **Youtube Clone** | React, Tailwind, React Router, Context API | [Demo](#) | [Repo](https://github.com/yash-lko/youtube_clone) |
 | **Weather App** | React, Typescript, Context API | [Demo](#) | [Repo](https://github.com/yash-lko/WeaterAppTypescript) |
 | **Cart System** | React, React Router Dom | [Demo](#) | [Repo](https://github.com/yash-lko/Cart_Ecommerce)|
-| **Attune- Static Website** | HTML, CSS, Javascript, Bootstrap | [Demo](#) | [Repo](https://github.com/yash-lko/attune-static-website)|
+| **Attune- Static Landing Page** | HTML, CSS, Javascript, Bootstrap | [Demo](#) | [Repo](https://github.com/yash-lko/attune-static-website)|
 
 ---
 
