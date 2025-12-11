@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yashwant Nishad</h1>
+<h1 align="center">Hi 👋, I'm Yashwant Nishad   </h1>
 <h3 align="center">Frontend Developer | React & Next.js Enthusiast</h3>
-<img src="https://cdn.dribbble.com/userupload/22464658/file/original-7aa295f8086e8823c708e2b1fcfb68e1.gif"/>
 <p align="center">
   Passionate about crafting clean, responsive, and user-focused web experiences.<br />
   I work with modern frontend technologies and love turning ideas into elegant UI solutions.
