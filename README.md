@@ -9,6 +9,59 @@ I am a Front End Software Engineer with experience in JavaScript, TypeScript, Re
 </p>
 
 ---
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://react.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://nextjs.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+  </a>
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=typescript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://tailwindcss.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+  <a href="https://sass-lang.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sass" />
+  </a>
+  <a href="https://redux.js.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redux" />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://www.figma.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+  <a href="https://www.postman.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+  <a href="https://vercel.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+  <a href="https://www.netlify.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=netlify" />
+  </a>
+</p>
 
 ### 💻 Technical Skills
 
