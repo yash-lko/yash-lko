@@ -72,14 +72,6 @@ I am a Front End Software Engineer with experience in JavaScript, TypeScript, Re
 </p>
 
 
-### 💻 Technical Skills
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nextjs,typescript,html,css,tailwind,bootstrap,sass,redux,nodejs,git,figma,vscode,postman,vercel,netlify&perline=6" />
-  </a>
-</p>
-
 ---
 
 
