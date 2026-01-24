@@ -1,65 +1,66 @@
-# 👋 Hello there! I'm [Your Name]
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I'm%20[Your%20Name]&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 
-### 🚀 Frontend JavaScript Developer | UI/UX Enthusiast | Open Source Contributor
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45E6FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;JavaScript+Enthusiast;UI/UX+Designer;Problem+Solver" alt="Typing SVG" />
+  </a>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[YourGitHubUsername]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-## 💫 About Me
-- 🔭 I’m currently working on **[Project Name/Current Job]**
-- 🌱 I’m currently learning **Next.js 14 and Framer Motion**
-- 👯 I’m looking to collaborate on **Innovative React Components**
-- 💬 Ask me about **JavaScript, CSS architecture, or Performance Optimization**
-- 📫 How to reach me: **[YourEmail@example.com]**
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/greetings.gif" width="30px"> 
+    <b>Passionate about building interactive and smooth web experiences.</b>
+  </p>
+</div>
 
 ---
 
-## 🛠️ My Tech Stack
+### 💫 About Me
+<div align="center">
+  <img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB3Znd4ZzJ4ZzJ4ZzJ4ZzJ4ZzJ4ZzJ4ZzJ4ZzJ4ZzJ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+</div>
 
-### 🌐 Frontend & Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### 🎨 Styling & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+- 🔭 I’m currently building **High-Performance Web Apps**
+- ⚡ Fun fact: **I believe CSS is a programming language (fight me!)**
+- 🛠️ Modernizing UI with **Framer Motion & Three.js**
+- 📫 Reach me at: `yourname@email.com`
 
 ---
 
-## 📊 Github Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 💻 Technologies I Use
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,git,figma,vscode&perline=5" />
+  </a>
 </p>
 
 ---
 
-## 🤝 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/[YourProfile]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[YourName]" height="30" width="40" /></a>
-<a href="https://twitter.com/[YourHandle]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[YourHandle]" height="30" width="40" /></a>
-<a href="https://instagram.com/[YourHandle]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[YourHandle]" height="30" width="40" /></a>
+### 📊 My GitHub Journey
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=radical&border_radius=10" alt="Streak" height="180px" />
 </p>
 
 ---
 
-## ⚡ Fun Fact
-> "I spend more time picking a VS Code theme than actually writing code... sometimes."
+### 🛠️ Recent Open Source Contributions
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YourUsername]&theme=react-dark&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/[YourProfile]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/[YourHandle]">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:yourname@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
