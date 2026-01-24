@@ -9,59 +9,68 @@ I am a Front End Software Engineer with experience in JavaScript, TypeScript, Re
 </p>
 
 ---
+<h2 align="center">💻 Technical Skills</h2>
+
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
-  <a href="https://react.dev" target="_blank">
+  <a href="https://react.dev">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
-  <a href="https://nextjs.org" target="_blank">
+  <a href="https://nextjs.org">
     <img src="https://skillicons.dev/icons?i=nextjs" />
   </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=typescript" />
+  <a href="https://www.typescriptlang.org">
+    <img src="https://skillicons.dev/icons?i=ts" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://skillicons.dev/icons?i=css" />
   </a>
-  <a href="https://tailwindcss.com" target="_blank">
+</p>
+
+<p align="center">
+  <a href="https://tailwindcss.com">
     <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
-  <a href="https://getbootstrap.com" target="_blank">
+  <a href="https://getbootstrap.com">
     <img src="https://skillicons.dev/icons?i=bootstrap" />
   </a>
-  <a href="https://sass-lang.com" target="_blank">
+  <a href="https://sass-lang.com">
     <img src="https://skillicons.dev/icons?i=sass" />
   </a>
-  <a href="https://redux.js.org" target="_blank">
+  <a href="https://redux.js.org">
     <img src="https://skillicons.dev/icons?i=redux" />
   </a>
-  <a href="https://nodejs.org" target="_blank">
+  <a href="https://nodejs.org">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
-  <a href="https://git-scm.com" target="_blank">
+  <a href="https://git-scm.com">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
-  <a href="https://www.figma.com" target="_blank">
+</p>
+
+<p align="center">
+  <a href="https://www.figma.com">
     <img src="https://skillicons.dev/icons?i=figma" />
   </a>
-  <a href="https://code.visualstudio.com" target="_blank">
+  <a href="https://code.visualstudio.com">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
-  <a href="https://www.postman.com" target="_blank">
+  <a href="https://www.postman.com">
     <img src="https://skillicons.dev/icons?i=postman" />
   </a>
-  <a href="https://vercel.com" target="_blank">
+  <a href="https://vercel.com">
     <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
-  <a href="https://www.netlify.com" target="_blank">
+  <a href="https://www.netlify.com">
     <img src="https://skillicons.dev/icons?i=netlify" />
   </a>
 </p>
+
 
 ### 💻 Technical Skills
 
