@@ -15,21 +15,39 @@
 
 ---
 
-### 🧰 Tech Stack
-
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
-![Agile](https://img.shields.io/badge/-Agile_Scrum-FCA121?style=flat)
-
----
-
+# 🖥️ Technical Skills: 
+<p align="center">
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://recoiljs.org" target="_blank" rel="noreferrer">
+    <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F14SHN%2Fbtsg1tFqmtp%2FVGLOZLfWKOuFVqGbsqTfnK%2Fimg.png" alt="recoil" width="60" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://www.passportjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.passportjs.org/images/logo.svg" alt="passport" width="60" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
+    <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="60" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://vercel.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="50" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://render.com" target="_blank" rel="noreferrer">
+    <img src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/gkq3dkkfkec8edd6fuay" alt="render" width="50" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 ### 📌 Featured Projects
 
 | Project | Tech | Demo | Repo |
