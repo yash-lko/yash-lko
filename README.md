@@ -15,28 +15,29 @@ I am a Front End Software Engineer with experience in JavaScript, TypeScript, Re
 ## 🚀 Quick Snapshot
 
 <p align="center">
-<table align="center" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/Experience-667eea?style=for-the-badge&logo=rocket&logoColor=white" /><br/>
-      Building scalable web apps with <b>React & Modern JS</b>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/Learning-764ba2?style=for-the-badge&logo=google-scholar&logoColor=white" /><br/>
-      <b>Micro-frontends</b> & Advanced Animation Engines
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/Ask_Me_About-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><br/>
-      <b>JavaScript, React, Tailwind</b> & CSS Sorcery
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/Get_In_Touch-blue?style=for-the-badge&logo=gmail&logoColor=white" /><br/>
-      <a href="mailto:yashwantbit@gmail.com">yashwantbit@gmail.com</a>
-    </td>
-  </tr>
-</table>
+## ⚡ The Developer Brief
+
+<p align="left">
+  <img src="https://img.shields.io/badge/EXPERIENCE-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
+  <span>Building high-performance web apps with <b>React & Modern JavaScript</b></span>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LEARNING-%23000000.svg?style=for-the-badge&logo=micro-strategy&logoColor=white" /> 
+  <span>Mastering <b>Micro-frontends</b> and Advanced Animation Engines</span>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CONSULT-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+  <span>Ask me about <b>JS, React, Tailwind,</b> and CSS Architecture</span>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CONTACT-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  <a href="mailto:yashwantbit@gmail.com"><b>yashwantbit@gmail.com</b></a>
+</p>
+
+---
 </p>
 
 ### 💻 Technical Skills
