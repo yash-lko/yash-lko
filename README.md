@@ -7,8 +7,11 @@
 <p>
 I am a Front End Software Engineer with experience in JavaScript, TypeScript, React, and Next.js. I build scalable and high-performance web applications with clean and user-friendly design. I have worked on state management using Redux and Zustand, and I write unit tests using Jest to ensure code quality. I focus on creating responsive, accessible, and SEO-friendly user interfaces. I do not just write code; I work on practical solutions that convert ideas into reliable and useful products.
 </p>
+<hr style="width:60%; margin: 30px auto 15px auto; border: 1px solid #30363d;" />
 
-<h2 align="center">💻 Technical Skills</h2>
+<h2 align="center" style="margin-top: 0; margin-bottom: 12px;">
+  💻 Technical Skills
+</h2>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
