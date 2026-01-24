@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A97CF8&center=true&vCenter=true&width=600&lines=Yashwant+Nishad;Front+End+Software+Engineer;JavaScript+Specialist;React+%26+Next.js+Expert" alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/greetings.gif" width="30px"> 
-  <b>Engineering high-performance, scalable web applications with a focus on modern UX.</b>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/greetings.gif" width="30px"> 
