@@ -12,12 +12,32 @@ I am a Front End Software Engineer with experience in JavaScript, TypeScript, Re
 
 ### 🚀 Quick Glance
   
-🚀 **Experience:** Building modern web apps with React & JS  
-🌱 **Learning:** Advanced Animation Libraries & Micro-frontend Architecture  
-💬 **Ask me about:** JavaScript, React, Tailwind, and CSS Tricks  
-📫 **Reach me:** [yashwantbit@gmail.com]
+## 🚀 Quick Snapshot
 
----
+<p align="center">
+<table align="center" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Experience-667eea?style=for-the-badge&logo=rocket&logoColor=white" /><br/>
+      Building scalable web apps with <b>React & Modern JS</b>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Learning-764ba2?style=for-the-badge&logo=google-scholar&logoColor=white" /><br/>
+      <b>Micro-frontends</b> & Advanced Animation Engines
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Ask_Me_About-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><br/>
+      <b>JavaScript, React, Tailwind</b> & CSS Sorcery
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Get_In_Touch-blue?style=for-the-badge&logo=gmail&logoColor=white" /><br/>
+      <a href="mailto:yashwantbit@gmail.com">yashwantbit@gmail.com</a>
+    </td>
+  </tr>
+</table>
+</p>
 
 ### 💻 Technical Skills
 
