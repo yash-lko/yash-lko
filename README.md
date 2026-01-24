@@ -13,64 +13,63 @@ I am a Front End Software Engineer with experience in JavaScript, TypeScript, Re
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=js&size=64" />
   </a>
   <a href="https://react.dev">
-    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=react&size=64" />
   </a>
   <a href="https://nextjs.org">
-    <img src="https://skillicons.dev/icons?i=nextjs" />
+    <img src="https://skillicons.dev/icons?i=nextjs&size=64" />
   </a>
   <a href="https://www.typescriptlang.org">
-    <img src="https://skillicons.dev/icons?i=ts" />
+    <img src="https://skillicons.dev/icons?i=ts&size=64" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=html&size=64" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=css&size=64" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://tailwindcss.com">
-    <img src="https://skillicons.dev/icons?i=tailwind" />
+    <img src="https://skillicons.dev/icons?i=tailwind&size=64" />
   </a>
   <a href="https://getbootstrap.com">
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <img src="https://skillicons.dev/icons?i=bootstrap&size=64" />
   </a>
   <a href="https://sass-lang.com">
-    <img src="https://skillicons.dev/icons?i=sass" />
+    <img src="https://skillicons.dev/icons?i=sass&size=64" />
   </a>
   <a href="https://redux.js.org">
-    <img src="https://skillicons.dev/icons?i=redux" />
+    <img src="https://skillicons.dev/icons?i=redux&size=64" />
   </a>
   <a href="https://nodejs.org">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=nodejs&size=64" />
   </a>
   <a href="https://git-scm.com">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=git&size=64" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.figma.com">
-    <img src="https://skillicons.dev/icons?i=figma" />
+    <img src="https://skillicons.dev/icons?i=figma&size=64" />
   </a>
   <a href="https://code.visualstudio.com">
-    <img src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://skillicons.dev/icons?i=vscode&size=64" />
   </a>
   <a href="https://www.postman.com">
-    <img src="https://skillicons.dev/icons?i=postman" />
+    <img src="https://skillicons.dev/icons?i=postman&size=64" />
   </a>
   <a href="https://vercel.com">
-    <img src="https://skillicons.dev/icons?i=vercel" />
+    <img src="https://skillicons.dev/icons?i=vercel&size=64" />
   </a>
   <a href="https://www.netlify.com">
-    <img src="https://skillicons.dev/icons?i=netlify" />
+    <img src="https://skillicons.dev/icons?i=netlify&size=64" />
   </a>
 </p>
-
 
 ---
 
