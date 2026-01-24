@@ -9,7 +9,7 @@ I am a Front End Software Engineer with experience in JavaScript, TypeScript, Re
 </p>
 <hr style="width:60%; border:1px solid #30363d; margin: 0 auto 10px auto;" />
 
-<div align="center" style="font-size: 1.5em; font-weight: 600; margin-bottom: 12px;">
+<div align="center" style="font-size: 3.5em; font-weight: 600; margin-bottom: 12px;">
   💻 Technical Skills
 </div>
 <p align="center">
