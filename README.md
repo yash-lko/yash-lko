@@ -47,18 +47,8 @@
   </table>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashwantNishad&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
 
----
 
-### 🛠️ Weekly Coding Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashwantNishad&theme=dracula&area=true&hide_border=true" width="100%" />
-</p>
-
----
 
 ### 🤝 Let's Connect
 <p align="center">
