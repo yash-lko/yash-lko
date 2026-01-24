@@ -10,20 +10,6 @@ I am a Front End Software Engineer with experience in JavaScript, TypeScript, Re
 
 ---
 
-## 🚀 Quick Snapshot
-
-![Experience](https://img.shields.io/badge/💼_Experience-React_&_Modern_JS-667eea?style=for-the-badge)
-Building scalable and high-performance web apps.
-
-![Learning](https://img.shields.io/badge/📚_Learning-Micro--frontends_&_Animations-764ba2?style=for-the-badge)
-Exploring modern frontend architecture.
-
-![Ask Me About](https://img.shields.io/badge/💬_Ask_Me_About-JS_•_React_•_Tailwind-000000?style=for-the-badge)
-
-![Contact](https://img.shields.io/badge/📫_Contact-Email-blue?style=for-the-badge)
-📧 yashwantbit@gmail.com
-
-
 ### 💻 Technical Skills
 
 <p align="center">
