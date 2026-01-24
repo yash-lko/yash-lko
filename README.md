@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=I'm%20Yashwant%20Nishad&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A97CF8&center=true&vCenter=true&width=500&lines=Frontend+JavaScript+Developer;UI+UX+Designer;Creative+Web+Architect;Open+Source+Contributor" alt="Typing SVG" />
@@ -31,21 +31,6 @@
 </p>
 
 ---
-
-### 📊 My Github Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YashwantNishad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashwantNishad&layout=compact&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 
