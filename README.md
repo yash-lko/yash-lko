@@ -5,7 +5,8 @@
 </a>
 </br>
 <p>
- **I am a **Front End Software Engineer** specializing in **JavaScript, React, and Next.js**. I bridge the gap between complex logic and elegant design by architecting scalable, high-performance web applications. From fine-tuning **Redux** state management to crafting pixel-perfect, responsive UIs, I focus on building seamless digital experiences optimized for speed, accessibility, and modern SEO standards. I don't just write code; I engineer solutions that turn sophisticated ideas into high-impact user products.</p>
+I am a Front End Software Engineer with experience in JavaScript, TypeScript, React, and Next.js. I build scalable and high-performance web applications with clean and user-friendly design. I have worked on state management using Redux and Zustand, and I write unit tests using Jest to ensure code quality. I focus on creating responsive, accessible, and SEO-friendly user interfaces. I do not just write code; I work on practical solutions that convert ideas into reliable and useful products.
+</p>
 
 ---
 
